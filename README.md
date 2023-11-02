@@ -32,6 +32,8 @@
 
 <p><p/>
 
+[![An image of @hbsbashitha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hbsbashitha)](https://holopin.io/@hbsbashitha)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbsbashitha&show_icons=true&locale=en&layout=compact" alt="hbsbashitha" /></p>
 <p><p/>
